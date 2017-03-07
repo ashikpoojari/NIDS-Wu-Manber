@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to NIDS WU MANBER
 
-You can use the [editor on GitHub](https://github.com/ashikpoojari/NIDS-Wu-Manber-slow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+We have proposed a Wu-Manber based multi-pattern matching algorithm on hardware to do signature detection. This implementation doesn’t require any pre-processing. It generates shift table and hash block on the fly. The user should give the signature file, the length of the input data, no of signatures and speed of the design as input. The script will generate the circuit required for this design.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,7 +12,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+Bulleted
 - List
 
 1. Numbered
@@ -27,11 +24,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashikpoojari/NIDS-Wu-Manber-slow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
